@@ -1,0 +1,1 @@
+mpiexec -n 4 GaussMPI.exe 10
